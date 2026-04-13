@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Barrier
+    uniqueID: 4103370061
+    locked: 0
   - name: Water
     uniqueID: 3054609259
     locked: 0
