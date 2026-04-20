@@ -50,8 +50,14 @@ TagManager:
   - name: Ground
     uniqueID: 2384974655
     locked: 0
+  - name: Floor and Wall
+    uniqueID: 1359348607
+    locked: 0
   - name: Character
     uniqueID: 2591132993
+    locked: 0
+  - name: Roof
+    uniqueID: 2976845969
     locked: 0
   m_RenderingLayers:
   - Default
